@@ -4,7 +4,7 @@
 // this workspace should be loaded into.
 chilipeppr.load(
   "#pnlWorkspace",
-  "http://raw.githubusercontent.com/ianic-cnc/workspace-grbl1/master/auto-generated-workspace.html",
+  "https://raw.githubusercontent.com/ianicbrisson/ianic-cnc/master/auto-generated-workspace.html",
   function() {
     // Callback after workspace loaded into #pnlWorkspace
     // Now use require.js to get reference to instantiated workspace
